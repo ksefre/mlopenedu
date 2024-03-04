@@ -10,19 +10,19 @@
 1.6 миллионов твитов, каждому из которых проставлена метка класса, необходимо сделать классификацию.
 
 
-![5.png](img%2F5.png)
+![5.png]([img%2F5.png](https://github.com/ksefre/ppamlpaket/blob/main/image/5.png))
 
 Класса получается всего 2, поэтому мы будем делать бинарную классификацию. Заменим метку класса 4 на 1.
 
-![2.png](img%2F2.png)
-![1.png](img%2F1.png)
-![3.png](img%2F3.png)
-![4.png](img%2F4.png)
+![2.png]([img%2F2.png](https://github.com/ksefre/ppamlpaket/blob/main/image/2.png))
+![1.png]([img%2F1.png](https://github.com/ksefre/ppamlpaket/tree/main/image))
+![3.png]([img%2F3.png](https://github.com/ksefre/ppamlpaket/blob/main/image/3.png))
+![4.png]([img%2F4.png](https://github.com/ksefre/ppamlpaket/blob/main/image/4.png))
 
 У разных классов самые частотные слова по большей части совпадают, а средняя длина твитов почти не отличается, поэтому ориентироваться на эти параметры при классификации не стоит.
 
 Сведем эмбеддинги твитов в 2d-плоскость:
-![img.png](img%2Fimg.png)
+![img.png]([img%2Fimg.png](https://github.com/ksefre/ppamlpaket/blob/main/image/img.png))
 Можно видеть, что классы перемешаны и линейно неразделимы.
 
 ## Метрики
