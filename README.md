@@ -7,7 +7,8 @@
 **ML-задача:** в датасете [sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
 1.6 миллионов твитов, каждому из которых проставлена метка класса, необходимо сделать бинарную классификацию.
 
-![img.png](img/img.png)
+![img.png](![img](https://github.com/ksefre/ppamlpaket/assets/123480354/292d1a40-a13b-4c66-a4c0-2db0e455c1b5)
+)
 
 ## Метрики
 
